@@ -1,9 +1,7 @@
 [
   {
-    "repository": "OwnROM-Devices/android_device_samsung_klte-common",
+    "repository": "android_device_samsung_klte-common",
     "target_path": "device/samsung/klte-common"
-    "revision": "cm-12.1",
-    "remote": "github"
   },
   
   {
