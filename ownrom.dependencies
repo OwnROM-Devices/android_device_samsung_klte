@@ -1,12 +1,37 @@
 [
   {
-    "repository": "android_device_samsung_klte-common",
+    "repository": "CyanogenMod/android_device_samsung_klte-common",
+    "remote": "github",
+    "revision": "cm-12.1",
     "target_path": "device/samsung/klte-common"
   },
-  
   {
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
+    "revision": "cm-12.1",
+    "remote": "github"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.1",
+    "remote": "github"
+  },
+  {
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "remote": "github",
+    "revision": "cm-12.1",
+    "target_path": "device/samsung/qcom-common"
+  },
+    {
+    "repository": "android_device_samsung_msm8974-common",
+    "remote": "github",
+    "revision": "cm-12.1",
+    "target_path": "device/samsung/msm8974-common"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
     "revision": "cm-12.1",
     "remote": "github"
   }
