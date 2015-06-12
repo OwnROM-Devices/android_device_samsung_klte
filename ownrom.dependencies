@@ -34,5 +34,10 @@
     "target_path": "kernel/samsung/klte",
     "revision": "cm-12.1",
     "remote": "github"
+  },
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "kernel/samsung/klte",
+    "revision": "cm-12.1",
+    "remote": "github"
   }
 ]
