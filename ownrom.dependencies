@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "android_device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common" ,
+    "remote": "devices"
+  },
+	{
+    "repository": "proprietary_vendor_samsung",
+	"target_path": "vendor/samsung",
+	"remote": "tm",
+	"revision": "cm-13.0"
+	}
+]
